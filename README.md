@@ -1,2 +1,2 @@
 # Gym_Website
-It is a static responsive website created by using html and css.
+It is a static responsive website created using html and css.
